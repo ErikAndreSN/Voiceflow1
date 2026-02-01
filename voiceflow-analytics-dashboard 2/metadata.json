@@ -1,0 +1,5 @@
+{
+  "name": "Voiceflow Analytics Dashboard",
+  "description": "A comprehensive dashboard for Voiceflow agents, featuring real-time chat monitoring (SSE simulation), transcript history analysis, and data export capabilities.",
+  "requestFramePermissions": []
+}
